@@ -506,7 +506,3 @@ nmap -oA report target
 - Metasploitable (deliberately vulnerable lab VM): https://sourceforge.net/projects/metasploitable/
 
 ---
-
-### 🧑‍🏫 A note for instructors
-
-Feel free to fork, adapt, and reorganize this for your own course. The section order follows the natural workflow of a real scan (discover → scan → identify → assess), which tends to help students retain *why* each technique exists rather than memorizing flags in isolation.
