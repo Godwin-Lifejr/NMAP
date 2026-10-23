@@ -1,4 +1,7 @@
 # NMAP
+
+> **Portfolio focus:** A structured Nmap learning guide covering network discovery, service enumeration, and scan interpretation. Test only targets you own or are explicitly authorised to assess.
+
 Nmap Mastery: From Packets to Practical Pentesting
 
 # 🛰️ Nmap Mastery: From Packets to Practical Pentesting
